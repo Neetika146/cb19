@@ -67,7 +67,7 @@ a {
 }
 
 .social-container a {
-    border: 1px solid #0A274D;
+    border: 1px solid #071d39;
     border-radius: 50%;
     display: inline-flex;
     justify-content: center;
@@ -77,14 +77,14 @@ a {
     width: 40px;
 }
 .social-container a:hover{
-    background-color: #0D72B5;
+    background-color: #094d7a;
     transition:0.5s;
 }
 
 .form-container input {
     background: #E0E9F5;
 		border-radius: 60px;
-		border: 1px solid #9FBBE0;
+		border: 1px solid #254d7a;
     padding: 12px 15px;
     margin: 8px 0;
     width: 100%;
@@ -93,7 +93,7 @@ a {
 button {
     border-radius: 20px;
     border: 1px solid #0A274D;
-    background: #1957A9;
+    background: #0e3363;
     color: #fff;
     font-size: 12px;
     font-weight: bold;
@@ -103,7 +103,7 @@ button {
     transition: transform 80ms ease-in;
 }
 button:hover{
-    background-color: #0A274D;
+    background-color: #061932;
     transition:0.5s;
 }
 button:active {
@@ -151,8 +151,8 @@ button.ghost {
 }
 
 .overlay {
-    background: #0D72B5;
-    background: linear-gradient(to right, #E9AAAA, #0D72B5) no-repeat 0 0 / cover;
+    background: #0f2633;
+    background: linear-gradient(to right, #A9112C, #0f2633) no-repeat 0 0 / cover;
     color: #fff;
     position: relative;
     left: -100%;
